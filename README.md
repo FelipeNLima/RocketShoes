@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Flux" src="https://user-images.githubusercontent.com/26943148/80501133-75c7d280-8945-11ea-8ff2-d55e1153b563.png" />
+    <img alt="Flux" src="https://user-images.githubusercontent.com/26943148/80501681-19b17e00-8946-11ea-84df-73c0a05c39c2.png" />
     <br />
 </h1>
 
